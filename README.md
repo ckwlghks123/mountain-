@@ -12,4 +12,4 @@
 
 ### 2. 서비스 소개
 ---
- - Notion [https://www.notion.so/SW-3-3-da781dac5fa24ae897ff9682dcf238d2](https://www.notion.so/elice/SW-3-3-d42f9ec3973141969d857c964361bf8c)
+ - Notion https://elice.notion.site/SW-3-3-d42f9ec3973141969d857c964361bf8c
